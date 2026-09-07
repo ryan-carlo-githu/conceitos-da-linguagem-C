@@ -51,6 +51,12 @@ int main (){
 	dado += 3;
 	printf("Depois do incremento de 3 unidade: %d\n", dado);
 	
+	dado -= 2;
+	printf("Depois do decremento em 2 unidades: %d\n", dado);
+	
+	dado *= 10;
+	printf("Depois do incremento de 10x: %d\n", dado);
+	
 	return 0;
 
 }
