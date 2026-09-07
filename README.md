@@ -53,25 +53,19 @@ Os arquivos são organizados em pastas de acordo com os conceitos estudados.
 
 Exemplo de estrutura:
 
-estudos-em-c/
+```text
+📦 estudos-em-c
 │
-├── variaveis/
+├── 📂 variaveis
+├── 📂 printf
+├── 📂 scanf
+├── 📂 calculos
+├── 📂 if
+├── 📂 exercicios
 │
-├── printf/
-│
-├── scanf/
-│
-├── calculos/
-│
-├── if/
-│
-├── exercicios/
-│
-├── sintaxe-semantica-expressao/
-│
-├── .gitignore
-│
-└── README.md
+├── 📄 .gitignore
+└── 📄 README.md
+```
 
 A estrutura do projeto poderá ser modificada conforme novos conteúdos forem adicionados.
 
