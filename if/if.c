@@ -30,7 +30,6 @@ int main (){
 		// Retorno caso a condição seja verdadeira
 		printf("Aprovado(a)!\n");
 	}
-	
 		
 	return 0;
 		
